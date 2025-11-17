@@ -1,0 +1,168 @@
+nav
+{
+	background: #0f0a02;
+}
+
+nav a, .footnote
+{
+	font-family: Cormorant;
+	font-weight: bold;
+	color: #C59401 !important;
+}
+
+h3
+{
+	font-family: Cormorant;
+	font-weight: bold;
+	font-size: 3rem;
+	color: #C59401;
+	line-height: 100%;
+}
+
+h4
+{
+	font-family: Cormorant;
+	font-weight: bold;
+	color: #C59401;
+}
+
+h5
+{	
+	font-family: Cormorant;
+	font-weight: bold;
+	font-size: 1.5rem;
+	line-height: 100%;
+	color: #C59401 !important;
+}
+
+p
+{
+	font-family: Cormorant;
+	font-weight: bold;
+	font-size: 2rem;
+	color: #C59401 !important;
+}
+
+footer
+{
+	background: #0f0a02;
+}
+
+#landing
+{
+	background: linear-gradient(rgba(15, 10, 2, 0.5), rgba(15, 10, 2, 0.5)), url("https://wallpapers.com/images/hd/mtg-background-rqj9xp3goq7z1nfn.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 550px;
+}
+
+#title
+{
+	font-family: Cormorant;
+	font-weight: bold;
+	font-size: 5rem;
+	color: #C59401;
+	line-height: 100%;
+}
+
+#subtitle
+{
+	font-family: Cormorant;
+	font-style: Regular;
+	font-size: 2rem;
+	color: #C59401;
+	line-height: 100%;
+}
+
+#landing-button
+{	
+	font-family: Cormorant;
+	font-weight: bold;
+	border-radius: 15px;
+	font-size: 1.2rem;
+	color: white;
+	background: #0f0a02;
+}
+
+#carousel-text
+{
+	font-size: 1rem;
+	color: black;
+}
+
+
+#new-items
+{	
+	background: linear-gradient(rgba(15, 10, 2, 0.95), rgba(15, 10, 2, 0.6)), url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtNz-3Foj-v__7y1c-WAhZjD14YRB1qdnW4w&s");
+	background-repeat: no-repeat;
+	background-size: cover;
+	/*height: 550px;*/
+}
+
+#products
+{	
+	background: linear-gradient(rgba(15, 10, 2, 0.9), rgba(15, 10, 2, 0.5)), url("https://www.myfreetextures.com/wp-content/uploads/2011/06/background-texture-of-old-parchment-grungy-paper.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	/*height: 550px;*/
+}
+
+#about
+{	
+	background: linear-gradient(rgba(15, 10, 2, 0.9), rgba(15, 10, 2, 0.4)), url("https://plus.unsplash.com/premium_photo-1674076592142-ae6d5b20d79c?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cGFyY2htZW50JTIwcGFwZXJ8ZW58MHx8MHx8fDA%3D");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 250px;
+}
+
+#about-info
+{
+	font-size: 1.2rem;
+}
+
+.carousel-container {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.carousel-item {
+	height: auto;
+}
+
+.carousel-item img {
+	width: 100%;
+	height: auto;
+	object-fit: contain;
+	background-color: #D3D3D3;
+}
+
+.card
+{
+	background: #0f0a02;
+	width: 20rem;
+	height: 30rem;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 10rem;
+    object-fit: cover;
+}
+
+.card-text
+{	
+	font-size: 1rem;
+	color: black;
+}
+
+.card .card-title
+{
+	color: black;
+}
+
+.card-footer
+{
+	color: white;
+	text-align: center;
+}
